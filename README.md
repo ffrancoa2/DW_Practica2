@@ -7,7 +7,7 @@
 Para verificar:
 npm -v
 npx -v
-1. Clonar el proyecto --> git clone https://github.com/tu-usuario/formulario-react.git
+1. Clonar el proyecto --> git clone https://github.com/ffrancoa2/DW_Practica2.git
 2. git cd formulario-react
 #Instalar Dependencias
 npm install
