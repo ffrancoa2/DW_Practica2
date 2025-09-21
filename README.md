@@ -1,4 +1,4 @@
-#Formulario hecho con react
+##Formulario hecho con react
 
 !Asegurarse si esta instalado Node.js (Si no es el caso instale)
 
@@ -11,5 +11,6 @@ npx -v
 2. git cd formulario-react
 #Instalar Dependencias
 npm install
-#Ejecución
+
+##Ejecución
 npm start
